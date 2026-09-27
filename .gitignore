@@ -1,0 +1,14 @@
+# Downloaded public data (recreated by 01_build_dataset.R)
+data/
+*.rds
+*.parquet
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db

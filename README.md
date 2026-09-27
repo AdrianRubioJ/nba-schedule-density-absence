@@ -44,3 +44,9 @@ standard UTC offsets are hard-coded in `05_travel_confirmed.R`.
    Validate against official NBA injury reports.
 2. No player age yet; time zones use standard offsets (DST ignored).
 3. Healthy-player selection: exposure is only observed when a player is available.
+
+## License
+
+Code is released under the [MIT License](LICENSE). The underlying box-score and
+schedule data belong to their original providers (ESPN via sportsdataverse) and are
+not redistributed here; the scripts download them on first run.
