@@ -1,0 +1,34 @@
+"model","term","HR","lo","hi","p"
+"M1 schedule","dens<=2",0.8,0.61,1.04,0.098
+"M1 schedule","dens>=4",1.1,0.98,1.24,0.12
+"M1 schedule","rest2+ days",1.1,0.97,1.25,0.13
+"M1 schedule","restB2B",0.94,0.82,1.08,0.36
+"M1 schedule","awayTRUE",1.08,0.98,1.19,0.1
+"M2 +role","dens<=2",0.8,0.61,1.04,0.096
+"M2 +role","dens>=4",1.1,0.98,1.24,0.12
+"M2 +role","rest2+ days",1.1,0.97,1.25,0.13
+"M2 +role","restB2B",0.94,0.82,1.08,0.37
+"M2 +role","awayTRUE",1.08,0.98,1.19,0.1
+"M2 +role","role10",1.17,1.06,1.29,0.0011
+"M2t trend","dens_num",1.11,1.01,1.22,0.033
+"M2t trend","rest2+ days",1.1,0.97,1.25,0.14
+"M2t trend","restB2B",0.94,0.82,1.08,0.36
+"M2t trend","awayTRUE",1.08,0.98,1.19,0.099
+"M2t trend","role10",1.17,1.06,1.29,0.0011
+"M3 player 7-day load","prev7_30",0.86,0.81,0.92,9.6e-06
+"M3 player 7-day load","rest2+ days",0.96,0.85,1.07,0.45
+"M3 player 7-day load","restB2B",0.98,0.86,1.13,0.82
+"M3 player 7-day load","awayTRUE",1.08,0.98,1.19,0.12
+"M3 player 7-day load","role10",1.31,1.18,1.46,7.5e-07
+"S1 all games","dens<=2",0.83,0.66,1.04,0.098
+"S1 all games","dens>=4",1.06,0.95,1.18,0.28
+"S1 all games","rest2+ days",1.11,0.99,1.24,0.064
+"S1 all games","restB2B",0.95,0.84,1.08,0.44
+"S1 all games","awayTRUE",1.07,0.98,1.16,0.12
+"S1 all games","role10",1.21,1.11,1.31,1.1e-05
+"S2 gamma frailty","dens<=2",0.79,0.6,1.05,0.1
+"S2 gamma frailty","dens>=4",1.1,0.98,1.24,0.11
+"S2 gamma frailty","rest2+ days",1.1,0.96,1.25,0.18
+"S2 gamma frailty","restB2B",0.95,0.82,1.08,0.42
+"S2 gamma frailty","awayTRUE",1.08,0.98,1.19,0.11
+"S2 gamma frailty","role10",1.24,1.13,1.36,7.8e-06
